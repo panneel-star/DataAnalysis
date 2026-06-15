@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Schema Detection Dashboard",
+  "description": "An interactive dashboard that dynamically detects schema headers, data types, and generates filters, tables, visualizations, and Gemini AI summaries from Excel, CSV, or Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
